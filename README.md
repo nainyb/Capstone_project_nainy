@@ -14,7 +14,7 @@ Analyze correlations between EV sales and U.S. population distribution.
 By addressing these questions, the project aims to uncover key drivers and barriers to EV adoption, providing insights into how socioeconomic, infrastructural, and political factors influence the future of clean transportation.
 
 ## Table of Contents
-* [Power BI Dashboard](#Power BI -dashboard)
+* [PowerBI Dashboard](#PowerBI-dashboard)
 * [Motivation](#motivation)
 * [Questions](#questions)
 * [Normalizing the Data](#normaling-the-data)
@@ -73,6 +73,7 @@ https://www.novoco.com/public-media/documents/hud-median-family-income-states-me
 #USA Median Income per state-https://www.novoco.com/public-media/documents/hud-median-family-income-states-metro-nonmetro-fy-2024-04012024.pdf
 #EV Registration by state for 2024 for -https://afdc.energy.gov/data/10962
 #Created a Dashboard For Washington State Department of Licensing (DOL)
+#Red and Blue states:  https://www.jagranjosh.com/general-knowledge/list-of-red-and-blue-states-map-2024-in-us-1730891566-1
 #Electric vehicle population - https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2/about_data(This dataset shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered through Washington State Department of Licensing (DOL))
 
 ## Conclusion
