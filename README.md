@@ -24,7 +24,9 @@ By addressing these questions, the project aims to uncover key drivers and barri
 * [Conclusion](#conclusion)
 
 ## PowerBI Dashboard
-Link:[text ] : https://tinyurl.com/545ydvt2
+Link:[text ] : https://app.powerbi.com/reportEmbed?reportId=89384e1a-b580-46ca-b971-272fe9544637&autoAuth=true&ctid=101da587-1843-4f52-8b8a-17b069c66d33
+
+#Presentation Link: https://www.canva.com/design/DAGwpV38OxU/SgkM-MQFZjlorm7HksVw5Q/edit?utm_content=DAGwpV38OxU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ## Motivation:
 The rapid rise of electric vehicles (EVs) represents one of the most transformative shifts in the global automotive industry. While EVs promise significant environmental benefits, such as reduced greenhouse gas emissions and improved air quality their adoption is uneven across regions. Understanding these factors that influence EV adoption is critical for policymakers, automakers, and consumers alike.
 
@@ -66,15 +68,23 @@ To answer the above questions I used the following sources to collect datasets f
 
 #comparing 2024 Ev sale and 2024 Median Income
 https://www.novoco.com/public-media/documents/hud-median-family-income-states-metro-nonmetro-fy-2024-04012024.pdf
+
 #Global Sales data: https://ourworldindata.org/electric-car-sales
+
 #Ev Manufactures -https://afdc.energy.gov/data_download
+
 #charging stations: https://catalog.data.gov/dataset/alternative-fueling-station-locations-422f2 
+
 #US Population states- https://www.kaggle.com/datasets/alexandrepetit881234/us-population-by-state
+
 #USA Median Income per state-https://www.novoco.com/public-media/documents/hud-median-family-income-states-metro-nonmetro-fy-2024-04012024.pdf
+
 #EV Registration by state for 2024 for -https://afdc.energy.gov/data/10962
+
 #Created a Dashboard For Washington State Department of Licensing (DOL)
 #Red and Blue states:  https://www.jagranjosh.com/general-knowledge/list-of-red-and-blue-states-map-2024-in-us-1730891566-1
-#Electric vehicle population - https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2/about_data(This dataset shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered through Washington State Department of Licensing (DOL))
+
+#Electric vehicle population - https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2/about_data (This dataset shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered through Washington State Department of Licensing (DOL))
 
 ## Conclusion
 Considering manufacturers, charging infrastructure, global sales, state-level adoption patterns, and EV sales relative to population, the findings show that EV adoption is accelerating but uneven. Strong policy support, growing charging networks, and increasing affordability are key drivers, While data limitations posed challenges, the findings emphasize the rising adoption of EVs and their potential to shape a more sustainable transportation future
