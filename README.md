@@ -24,7 +24,7 @@ By addressing these questions, the project aims to uncover key drivers and barri
 * [Conclusion](#conclusion)
 
 ## PowerBI Dashboard
-Link:[text ] : https://app.powerbi.com/reportEmbed?reportId=89384e1a-b580-46ca-b971-272fe9544637&autoAuth=true&ctid=101da587-1843-4f52-8b8a-17b069c66d33
+Link:[text ] : https://app.powerbi.com/view?r=eyJrIjoiYTE1ZTkxOWUtMGE0My00ZDNmLWE5NWMtMDZhOWJlZmVlNGI1IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&pageName=4507070c0ce4aa0c08a2
 
 #Presentation Link: https://www.canva.com/design/DAGwpV38OxU/SgkM-MQFZjlorm7HksVw5Q/edit?utm_content=DAGwpV38OxU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ## Motivation:
